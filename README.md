@@ -26,10 +26,10 @@ Core Features:
 
 Frontend: Streamlit (Custom CSS for Apple Glassmorphism/Bento-box UI).
 
-Language: Python 3.10+.
+Language: Python 3.14.2
 
 APIs: iTunes RSS, Deezer Public API (Keyless), Wikipedia REST API.
 
-LLM Orchestration: Ollama (Local) & NVIDIA NIM (Cloud).
+LLM Orchestration: Ollama (Local gemma3:270M) & NVIDIA NIM (Cloud).
 
 Data Handling: Requests for API ingestion, Pandas for transformation, and Datetime for historical filtering.
