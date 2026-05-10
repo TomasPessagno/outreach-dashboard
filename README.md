@@ -6,7 +6,7 @@ Setup
 
 - Install Dependencies: pip install streamlit requests pandas
 
-- Run Locally: streamlit run app.py
+- Run Locally: streamlit run od.py
 
 - Open localhost:8501
 
